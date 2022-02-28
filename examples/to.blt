@@ -1,0 +1,10 @@
+!BOLT16!
+
+If !NAME! : char{"to"} -
+  printf("Hello World!")
+--
+
+<\comment/>
+<\Things to interact with the machine will go here eventually/>
+
+!END!
